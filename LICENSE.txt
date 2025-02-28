@@ -1,0 +1,20 @@
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## You are free to:
+- **Share** — Copy and redistribute the material in any medium or format.
+- **Adapt** — Remix, transform, and build upon the material.
+
+## Under the following terms:
+1. **Attribution** — You must give appropriate credit, provide a link to this license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+2. **NonCommercial** — You may not use the dataset for commercial purposes.
+3. **ShareAlike** — If you remix, transform, or build upon the dataset, you must distribute your contributions under the same license as the original.
+4. **No Additional Restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+## Disclaimer:
+This dataset is provided "as is" without any warranties, express or implied. The licensor is not liable for any misuse or consequences resulting from the use of this dataset.
+
+For more details, visit: [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+For inquiries or permission requests beyond this license, please contact the dataset provider.
